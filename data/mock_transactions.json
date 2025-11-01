@@ -1,0 +1,53 @@
+[
+  {
+    "id": "txn_001",
+    "timestamp": "2025-01-15T10:30:00",
+    "merchant": "Din Tai Fung ION Orchard",
+    "amount": 58.20,
+    "currency": "SGD",
+    "location": {
+      "city": "Singapore",
+      "area": "Orchard",
+      "lat": 1.3048,
+      "lng": 103.8318
+    },
+    "card_used": "Citi Cash Back+",
+    "reward_earned": 4.66,
+    "category": "Dining",
+    "mcc": 5812
+  },
+  {
+    "id": "txn_002",
+    "timestamp": "2025-01-14T08:15:00",
+    "merchant": "Starbucks Raffles Place",
+    "amount": 12.50,
+    "currency": "SGD",
+    "location": {
+      "city": "Singapore",
+      "area": "CBD",
+      "lat": 1.2847,
+      "lng": 103.8510
+    },
+    "card_used": "Citi Cash Back+",
+    "reward_earned": 1.00,
+    "category": "Dining",
+    "mcc": 5814
+  },
+  {
+    "id": "txn_003",
+    "timestamp": "2025-01-13T19:45:00",
+    "merchant": "FairPrice Tampines",
+    "amount": 145.30,
+    "currency": "SGD",
+    "location": {
+      "city": "Singapore",
+      "area": "Tampines",
+      "lat": 1.3526,
+      "lng": 103.9447
+    },
+    "card_used": "UOB One",
+    "reward_earned": 14.53,
+    "category": "Groceries",
+    "mcc": 5411
+  }
+]

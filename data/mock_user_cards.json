@@ -1,0 +1,95 @@
+[
+  {
+    "id": "card_1",
+    "bank": "Citibank",
+    "display_name": "Citi Cash Back+",
+    "last4": "4532",
+    "image_url": "placeholder",
+    "monthly_cap": 2000,
+    "used_this_month": 260,
+    "benefits": [
+      "8% cashback on dining",
+      "8% cashback on groceries",
+      "1.5% cashback on everything else"
+    ],
+    "tiers": {
+      "dining_bonus_pct": 8.0,
+      "grocery_bonus_pct": 8.0,
+      "general_pct": 1.5
+    }
+  },
+  {
+    "id": "card_2",
+    "bank": "DBS",
+    "display_name": "DBS Altitude",
+    "last4": "7891",
+    "image_url": "placeholder",
+    "monthly_cap": 2000,
+    "used_this_month": 450,
+    "benefits": [
+      "3 miles per $ on flights",
+      "2 miles per $ on overseas spend",
+      "1.2 miles per $ locally"
+    ],
+    "tiers": {
+      "flight_miles": 3.0,
+      "overseas_miles": 2.0,
+      "local_miles": 1.2
+    }
+  },
+  {
+    "id": "card_3",
+    "bank": "UOB",
+    "display_name": "UOB One",
+    "last4": "2156",
+    "image_url": "placeholder",
+    "monthly_cap": 1000,
+    "used_this_month": 320,
+    "benefits": [
+      "10% cashback on groceries",
+      "5% cashback on dining",
+      "3% cashback on Grab"
+    ],
+    "tiers": {
+      "grocery_bonus_pct": 10.0,
+      "dining_bonus_pct": 5.0,
+      "transport_bonus_pct": 3.0
+    }
+  },
+  {
+    "id": "card_4",
+    "bank": "OCBC",
+    "display_name": "OCBC 365",
+    "last4": "9843",
+    "image_url": "placeholder",
+    "monthly_cap": 1500,
+    "used_this_month": 670,
+    "benefits": [
+      "6% cashback on dining",
+      "3% cashback on groceries",
+      "3% cashback on petrol"
+    ],
+    "tiers": {
+      "dining_bonus_pct": 6.0,
+      "grocery_bonus_pct": 3.0,
+      "petrol_bonus_pct": 3.0
+    }
+  },
+  {
+    "id": "card_5",
+    "bank": "Standard Chartered",
+    "display_name": "StanChart Unlimited",
+    "last4": "5678",
+    "image_url": "placeholder",
+    "monthly_cap": 2000,
+    "used_this_month": 150,
+    "benefits": [
+      "1.5% unlimited cashback",
+      "No minimum spend",
+      "No cap on cashback"
+    ],
+    "tiers": {
+      "general_pct": 1.5
+    }
+  }
+]
